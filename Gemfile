@@ -1,4 +1,5 @@
-source "https://rubygems.org"
-gemspec
-
-gem 'jekyll-compose', group: [:jekyll_plugins]
+source 'https://rubygems.org'
+gem 'jekyll', '<4'
+gem 'jekyll-archives'
+gem 'jekyll-sitemap'
+gem 'jekyll-paginate-v2'
