@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "Kubernetes 리소스 종류"
+title:  "Kubernetes 구성요소"
 date:   2021-07-28 16:14:36 +0530
 categories: Kubernetes, DevOps
 
